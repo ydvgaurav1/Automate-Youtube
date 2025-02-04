@@ -1,4 +1,5 @@
 YouTube Automation Test Suite
+
 This repository contains an automated test suite for YouTube, implemented using Selenium WebDriver and TestNG. The tests cover key functionalities across different sections of YouTube, including Movies, Music, News, and general page interactions.
 
 Features
