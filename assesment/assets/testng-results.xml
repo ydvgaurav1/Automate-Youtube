@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T07:47:22Z" name="Test Suite for Buildout" finished-at="2024-10-21T07:50:04Z" duration-ms="162704">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T07:47:22Z" name="Test Cases for Buildout" finished-at="2024-10-21T07:50:04Z" duration-ms="162704">
+      <class name="demo.TestCases">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:17:22Z" name="startBrowser" finished-at="2024-10-21T13:17:24Z" duration-ms="2204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="testCase01()[pri:1, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:17:24Z" name="testCase01" finished-at="2024-10-21T13:17:43Z" duration-ms="19186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+        <test-method signature="testCase02()[pri:2, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:17:43Z" name="testCase02" finished-at="2024-10-21T13:18:06Z" duration-ms="23133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase02 -->
+        <test-method signature="testCase03()[pri:3, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:18:06Z" name="testCase03" finished-at="2024-10-21T13:18:29Z" duration-ms="22653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase03 -->
+        <test-method signature="testCase04()[pri:4, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:18:29Z" name="testCase04" finished-at="2024-10-21T13:18:48Z" duration-ms="19082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method signature="testCase05(java.lang.String)[pri:5, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:18:48Z" name="testCase05" data-provider="excelData" finished-at="2024-10-21T13:19:14Z" duration-ms="25333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Movies]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method signature="testCase05(java.lang.String)[pri:5, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:19:14Z" name="testCase05" data-provider="excelData" finished-at="2024-10-21T13:19:39Z" duration-ms="25409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method signature="testCase05(java.lang.String)[pri:5, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:19:39Z" name="testCase05" data-provider="excelData" finished-at="2024-10-21T13:20:04Z" duration-ms="24400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@2e9fda69]" started-at="2024-10-21T13:20:04Z" name="endTest" finished-at="2024-10-21T13:20:04Z" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- demo.TestCases -->
+    </test> <!-- Test Cases for Buildout -->
+  </suite> <!-- Test Suite for Buildout -->
+</testng-results>
